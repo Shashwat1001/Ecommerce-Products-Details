@@ -2,6 +2,8 @@
 This repository allows us to collect data from the website.
 Following are the details of the website crawler made:-
 Website domain URL: https://www.lazada.sg 
+
+
 Code 1 Task:
 Search for specific keyword (Eg. ‘Samsung’) on website and capture, all relevant results Product URLs and its Product name from search page. 
 
